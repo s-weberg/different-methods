@@ -23,7 +23,7 @@ console.log(number);
 
 //4. Print out the new price using console.log(), for example: 'Your new price is: $44.99' 
 
-newPrice = (priceWithoutDollar * 0.9);
+newPrice = (number * 0.9);
 console.log(newPrice);
 
 let salePrice = 44.991;
